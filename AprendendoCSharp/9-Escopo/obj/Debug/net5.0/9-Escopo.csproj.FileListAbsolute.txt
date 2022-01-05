@@ -1,0 +1,15 @@
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\9-Escopo.exe
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\9-Escopo.deps.json
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\9-Escopo.runtimeconfig.json
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\9-Escopo.runtimeconfig.dev.json
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\9-Escopo.dll
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\ref\9-Escopo.dll
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\bin\Debug\net5.0\9-Escopo.pdb
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.AssemblyInfoInputs.cache
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.AssemblyInfo.cs
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.csproj.CoreCompileInputs.cache
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.dll
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\ref\9-Escopo.dll
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.pdb
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\9-Escopo\obj\Debug\net5.0\9-Escopo.genruntimeconfig.cache

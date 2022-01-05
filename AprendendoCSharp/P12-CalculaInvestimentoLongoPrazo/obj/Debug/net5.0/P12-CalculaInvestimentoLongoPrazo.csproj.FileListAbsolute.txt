@@ -1,0 +1,15 @@
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.exe
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.deps.json
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.runtimeconfig.json
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.runtimeconfig.dev.json
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\ref\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.pdb
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\ref\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.pdb
+C:\Projetos GitHub\CURSO_.Net\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvestimentoLongoPrazo.genruntimeconfig.cache
